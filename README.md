@@ -1,3 +1,6 @@
+#wireframes for app: 
+![frame](https://github.com/maru-catherina/little_lemon_app/assets/95301561/dd1850f8-1c37-480b-a1bf-811ac2adcada)
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
